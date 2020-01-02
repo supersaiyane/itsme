@@ -1,3 +1,3 @@
 # gurpreetsingh
 
-This is the resume
+Portfolio
